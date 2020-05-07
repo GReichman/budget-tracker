@@ -6,6 +6,3 @@ https://ancient-forest-39507.herokuapp.com/
 ## Usage
    To use this app, go to the link displayed above. To add a new transaction, enter a name for the transaction, the amount transferred, then select if it was a deposit or withdrawal. The chart below the transaction list will track your expenses and your total amount of available money will be shown at the top of the page.
 ![screenshot](./screenshot.png)
-
-## Known Issues
-   Hosted site currently doesnt load
